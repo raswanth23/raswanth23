@@ -1,16 +1,28 @@
-### Hi there 👋
+# Sasmitha A - Data Science and Software Development Enthusiast
 
-<!--
-**raswanth23/raswanth23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+I am Sasmitha A, a Decision Science student with a passion for software development. I bring a blend of technical expertise in Python and frontend languages, along with a creative flair for innovative projects. As a collaborative team player, I am eager to contribute to exciting and challenging endeavors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, C
+- **Web Technologies:** HTML, CSS
+- **Database:** MySQL, MongoDB
+- **Tools:** Microsoft Excel
+
+## Roles
+
+- **Executive Director**
+  - Women Empowerment Cell | 2023 – 2024
+
+- **Public Relations Officer**
+  - Women Empowerment Cell | 2022 – 2023
+
+## Contact Information
+
+- **LinkedIn:** [Sasmitha A on LinkedIn](https://www.linkedin.com/in/sasmitha-a-85b023273)
+- **Email:** sasmitha2073@gmail.com
+
+Feel free to reach out!
+
